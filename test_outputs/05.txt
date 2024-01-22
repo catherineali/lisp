@@ -1,0 +1,8 @@
+[
+  {'ok': True, 'output': 56},
+  {'ok': True, 'output': -1080.0},
+  {'ok': True, 'output': 0},
+  {'ok': True, 'output': 1.2857142857142858},
+  {'ok': True, 'output': -0.009259259259259259},
+  {'ok': True, 'output': 0.0},
+]
